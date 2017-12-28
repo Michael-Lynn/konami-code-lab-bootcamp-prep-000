@@ -22,6 +22,6 @@ function onKeyDownHandler(e) {
     index = 0;
   }
 }
-document.body.addEventListener(index)
+document.body.addEventListener(onKeyDownHandler)
 }
 
