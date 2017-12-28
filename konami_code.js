@@ -1,3 +1,5 @@
+function init(){
+  
 // check to make sure that the browser can handle window.addEventListener
 if (window.addEventListener) {
     // create the keys and konami variables
@@ -20,3 +22,5 @@ if (window.addEventListener) {
         };
     }, true);
 };
+
+}
